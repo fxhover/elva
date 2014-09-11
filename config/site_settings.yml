@@ -48,7 +48,7 @@ required:
 
 basic:
   default_locale:
-    default: 'en'
+    default: 'zh_CN'
     enum: 'LocaleSiteSetting'
     refresh: true
   allow_user_locale:
